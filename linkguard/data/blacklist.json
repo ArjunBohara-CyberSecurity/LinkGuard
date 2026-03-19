@@ -1,0 +1,10 @@
+﻿{
+  "domains": [
+    "example.bad"
+  ],
+  "patterns": [
+    "free-?gift",
+    "account-?verify",
+    "login-?secure"
+  ]
+}
